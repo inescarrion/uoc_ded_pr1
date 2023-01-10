@@ -5,9 +5,9 @@
 1. <a href="#general-info">General info</a>
 2. <a href="#new-tests">New tests</a>
 3. <a href="#modifications-comments">Modifications and additional comments</a>
-  <br>3.1. <a href="new-methods-var-aux">New methods, variables and auxiliary classes</a>
-  <br>3.2. <a href="new-tads">New TADs: DictionaryOrderedVector and OrderedVector</a>
-  <br>3.3. <a href="problems">Problems found</a>
+  <br>3.1. <a href="#new-methods-var-aux">New methods, variables and auxiliary classes</a>
+  <br>3.2. <a href="#new-tads">New TADs: DictionaryOrderedVector and OrderedVector</a>
+  <br>3.3. <a href="#problems">Problems found</a>
 
 <h2 id="general-info">General info</h2>
 <p>This project was made for the subject "Diseño de Estructura de Datos (Design of Data Structures)" taught at <a href="https://www.uoc.edu/portal/es/index.html">Universitat Oberta de Catalunya</a> (UOC).</p>
